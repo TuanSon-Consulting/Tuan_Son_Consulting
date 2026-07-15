@@ -6,7 +6,7 @@
 
 ### Chuyên gia thủ tục hải quan | Thực tập Luật sư | Import-Export Consultant
 
-Tôi hỗ trợ doanh nghiệp **tuân thủ pháp luật** trong lĩnh vực Xuất Nhập Khẩu, Hải quan và Kinh doanh quốc tế tại Việt Nam.
+Chuyên tư vấn thủ tục hải quan, pháp lý XNK và tuân thủ luật thương mại cho doanh nghiệp Việt Nam.
 
 ---
 
