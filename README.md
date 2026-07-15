@@ -1,28 +1,64 @@
-# Tuan Son Nguyen - Tư vấn Pháp lý & XNK
+# Tuan Son Nguyen
 
-**Chuyên gia Giao nhận hàng hóa Xuất Nhập Khẩu**  
+**Tư vấn Pháp lý & Giao nhận Hàng hóa Xuất Nhập Khẩu**
 
-Tôi hỗ trợ doanh nghiệp tuân thủ pháp luật trong lĩnh vực xuất nhập khẩu, hải quan và kinh doanh quốc tế.
+![Profile](https://avatars.githubusercontent.com/u/your-user-id) <!-- sau thay bằng avatar của mày -->
 
-## 🚀 Dịch vụ chính
-- Tư vấn thủ tục hải quan & XNK
-- Hỗ trợ pháp lý thương mại, hợp đồng quốc tế
-- Đào tạo & checklist thực tế cho doanh nghiệp
+### Chuyên gia thủ tục hải quan | Thực tập Luật sư | Import-Export Consultant
 
-## 📌 Kỹ năng nổi bật
-- Kinh nghiệm thực tế Giao nhận Hải quan XNK (từ năm 2004)
-- Thực tập tại Công ty Luật TNHH Việt Tin
-- Quản lý tài liệu pháp lý & quy trình
-
-## 📍 Thông tin liên hệ
-- **Địa chỉ**: Ho Chi Minh City, Việt Nam
-- **Email**: uapnsa41@gmail.com | sonnt04@hotmail.com
-- **Zalo / Phone**: +84.947.336317
-- **LinkedIn**: 
+Tôi hỗ trợ doanh nghiệp **tuân thủ pháp luật** trong lĩnh vực Xuất Nhập Khẩu, Hải quan và Kinh doanh quốc tế tại Việt Nam.
 
 ---
 
-**Repository này** dùng để chia sẻ:
-- Tài liệu pháp lý & quy trình XNK
-- Template hợp đồng, checklist
-- Kiến thức & kinh nghiệm thực tế
+## 🚀 Dịch vụ Chính
+
+- **Tư vấn Thủ tục Hải quan & XNK**: Nhập khẩu, xuất khẩu, khai báo hải quan, chứng nhận xuất xứ...
+- **Tư vấn Pháp lý Thương mại**: Hợp đồng quốc tế, tranh chấp thương mại, tuân thủ quy định
+- **Hỗ trợ Doanh nghiệp**: Affiliate marketing, kinh doanh sản phẩm công nghệ, môi giới bất động sản
+- **Đào tạo & Checklist**: Hướng dẫn thực tế cho kế toán, nhân viên logistics
+
+---
+
+## 📌 Kinh nghiệm & Kỹ năng
+
+- **Kinh nghiệm thực tế**: Giao nhận Hải quan Xuất Nhập Khẩu
+- **Thực tập**: Luật sư (tập trung Luật Thương mại & Hải quan)
+- **Tiếng Anh**: B2 (đang cải thiện kỹ năng chuyên ngành)
+- **Công cụ**: GitHub, Microsoft Office, hệ thống khai báo hải quan điện tử
+
+---
+
+## 🎯 Mục tiêu Phát triển
+
+- Xây dựng dịch vụ tư vấn pháp lý XNK chuyên sâu
+- Hỗ trợ doanh nghiệp Việt Nam mở rộng kinh doanh quốc tế
+- Phát triển portfolio kiến thức luật & XNK công khai
+
+---
+
+## 📚 Nội dung trong Repository này
+
+- `legal-documents/` → Luật, Nghị định, Thông tư mới nhất
+- `xnk-procedures/` → Checklist & quy trình thực tế
+- `templates/` → Mẫu hợp đồng, biên bản, tờ khai
+- `knowledge-base/` → Kiến thức tổng hợp
+- `english-learning/` → Từ vựng chuyên ngành XNK & Luật
+
+---
+
+## 📍 Liên hệ
+
+- **Vị trí**: TP. Hồ Chí Minh, Việt Nam
+- **Email**: uapnsa41@gmail.com
+- **Zalo**: +84.947.336317
+- **GitHub**: [@TuanSon-Consulting](https://github.com/TuanSon-Consulting)
+- **LinkedIn**:
+
+---
+
+**Cảm ơn bạn đã ghé thăm!**  
+Mọi yêu cầu tư vấn vui lòng liên hệ trực tiếp. Tôi luôn sẵn sàng hỗ trợ.
+
+---
+
+*Last updated: July 2026*
