@@ -2,7 +2,6 @@
 
 **Tư vấn Pháp lý & Giao nhận Hàng hóa Xuất Nhập Khẩu**
 
-![Profile](https://avatars.githubusercontent.com/u/your-user-id) <!-- sau thay bằng avatar của mày -->
 
 ### Tư Vấn Thủ tục Hải quan | Tư Vấn Pháp Lý | Import-Export Consultant
 
